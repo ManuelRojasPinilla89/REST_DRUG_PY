@@ -1,0 +1,4 @@
+virtualenv drugstore-env --python=python3
+
+pip install django
+pip install djangorestframework
